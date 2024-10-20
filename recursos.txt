@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=suAkMeWJ1yE
+
+EN VSCODE
+Create Environment:
+    1.- CTR+SHIFT+P ---> Paleta "Python: Create Environment"
+    2.- Escoger .venv ..... escoger el interprete
+    3.- 
